@@ -24,17 +24,6 @@
         "topics": []
       },
       {
-        "title": "Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences",
-        "authors": "RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi",
-        "venue": "Computers in biology and medicine 141, 105024, 2022",
-        "year": "2022",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:7PzlFSSx8tAC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2022_15,\n  title={Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences},\n  author={RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi},\n  journal={Computers in biology and medicine 141, 105024, 2022},\n  year={2022}\n}",
-        "topics": []
-      },
-      {
         "title": "Sentiment Analysis with Tweets Behaviour in Twitter Streaming API",
         "authors": "K Chouhan, M Yadav, RK Rout, KS Sahoo, NZ Jhanjhi, M Masud, ...",
         "venue": "",
@@ -42,7 +31,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:YFjsv_pBGBYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_16,\n  title={Sentiment Analysis with Tweets Behaviour in Twitter Streaming API},\n  author={K Chouhan, M Yadav, RK Rout, KS Sahoo, NZ Jhanjhi, M Masud, ...},\n  journal={},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_14,\n  title={Sentiment Analysis with Tweets Behaviour in Twitter Streaming API},\n  author={K Chouhan, M Yadav, RK Rout, KS Sahoo, NZ Jhanjhi, M Masud, ...},\n  journal={},\n  year={2022}\n}",
+        "topics": []
+      },
+      {
+        "title": "Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences",
+        "authors": "RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi",
+        "venue": "Computers in biology and medicine 141, 105024, 2022",
+        "year": "2022",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:7PzlFSSx8tAC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2022_16,\n  title={Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences},\n  author={RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi},\n  journal={Computers in biology and medicine 141, 105024, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -332,7 +332,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:ZeXyd9-uunAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_5,\n  title={Smart sentiment analysis system for pain detection using cutting edge techniques in a smart healthcare framework},\n  author={A Ghosh, S Umer, MK Khan, RK Rout, BC Dhara},\n  journal={Cluster Computing 26 (1), 119-135, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_4,\n  title={Smart sentiment analysis system for pain detection using cutting edge techniques in a smart healthcare framework},\n  author={A Ghosh, S Umer, MK Khan, RK Rout, BC Dhara},\n  journal={Cluster Computing 26 (1), 119-135, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -343,7 +343,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:-f6ydRqryjwC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_13,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RKR Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_12,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RKR Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -488,7 +488,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:dhFuZR0502QC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_4,\n  title={A unified framework of deep learning-based facial expression recognition system for diversified applications},\n  author={S Hossain, S Umer, V Asari, RK Rout},\n  journal={Applied Sciences 11 (19), 9174, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_5,\n  title={A unified framework of deep learning-based facial expression recognition system for diversified applications},\n  author={S Hossain, S Umer, V Asari, RK Rout},\n  journal={Applied Sciences 11 (19), 9174, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -510,7 +510,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:9ZlFYXVOiuMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_12,\n  title={Deep features based convolutional neural network model for text and non-text region segmentation from document images},\n  author={S Umer, R Mondal, HM Pandey, RK Rout},\n  journal={Applied Soft Computing 113, 107917, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_13,\n  title={Deep features based convolutional neural network model for text and non-text region segmentation from document images},\n  author={S Umer, R Mondal, HM Pandey, RK Rout},\n  journal={Applied Soft Computing 113, 107917, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -624,7 +624,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:cFHS6HbyZ2cC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_14,\n  title={SMEOR: Sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network},\n  author={AD Gupta, R Kumar Rout},\n  journal={International Journal of Communication Systems 37 (4), e5679, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_15,\n  title={SMEOR: Sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network},\n  author={AD Gupta, R Kumar Rout},\n  journal={International Journal of Communication Systems 37 (4), e5679, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
