@@ -402,17 +402,6 @@
         "topics": []
       },
       {
-        "title": "Automated segmentation of blood vessels in retinal images based on entropy weighted thresholding",
-        "authors": "DK Maharana, P Das, RK Rout",
-        "venue": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2023",
-        "year": "2023",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:hC7cP41nSMkC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2023_44,\n  title={Automated segmentation of blood vessels in retinal images based on entropy weighted thresholding},\n  author={DK Maharana, P Das, RK Rout},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2023},\n  year={2023}\n}",
-        "topics": []
-      },
-      {
         "title": "Variation of deep features analysis for facial expression recognition system",
         "authors": "N Shabbir, RK Rout",
         "venue": "Multimedia Tools and Applications 82 (8), 11507-11522, 2023",
@@ -420,7 +409,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_45,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_44,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "topics": []
+      },
+      {
+        "title": "Automated segmentation of blood vessels in retinal images based on entropy weighted thresholding",
+        "authors": "DK Maharana, P Das, RK Rout",
+        "venue": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2023",
+        "year": "2023",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:hC7cP41nSMkC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2023_45,\n  title={Automated segmentation of blood vessels in retinal images based on entropy weighted thresholding},\n  author={DK Maharana, P Das, RK Rout},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
