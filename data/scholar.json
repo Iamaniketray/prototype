@@ -90,6 +90,17 @@
         "topics": []
       },
       {
+        "title": "Eightydvec: a method for protein sequence similarity analysis using physicochemical properties of amino acids",
+        "authors": "RK Rout, S Umer, S Sheikh, S Sindhwani, S Pati",
+        "venue": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2022",
+        "year": "2022",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:mVmsd5A6BfQC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2022_27,\n  title={Eightydvec: a method for protein sequence similarity analysis using physicochemical properties of amino acids},\n  author={RK Rout, S Umer, S Sheikh, S Sindhwani, S Pati},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2022},\n  year={2022}\n}",
+        "topics": []
+      },
+      {
         "title": "Improved procedure for multi-focus images using image fusion with qshiftN DTCWT and MPCA in Laplacian pyramid domain",
         "authors": "CR Mohan, K Chouhan, RK Rout, KS Sahoo, NZ Jhanjhi, AO Ibrahim, ...",
         "venue": "Applied Sciences 12 (19), 9495, 2022",
@@ -97,7 +108,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:iH-uZ7U-co4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_30,\n  title={Improved procedure for multi-focus images using image fusion with qshiftN DTCWT and MPCA in Laplacian pyramid domain},\n  author={CR Mohan, K Chouhan, RK Rout, KS Sahoo, NZ Jhanjhi, AO Ibrahim, ...},\n  journal={Applied Sciences 12 (19), 9495, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_31,\n  title={Improved procedure for multi-focus images using image fusion with qshiftN DTCWT and MPCA in Laplacian pyramid domain},\n  author={CR Mohan, K Chouhan, RK Rout, KS Sahoo, NZ Jhanjhi, AO Ibrahim, ...},\n  journal={Applied Sciences 12 (19), 9495, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -108,18 +119,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:hFOr9nPyWt4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_31,\n  title={Unsupervised learning for feature representation using spatial distribution of amino acids in aldehyde dehydrogenase (aldh2) protein sequences},\n  author={M Khandelwal, S Sheikh, RK Rout, S Umer, S Mallik, Z Zhao},\n  journal={Mathematics 10 (13), 2228, 2022},\n  year={2022}\n}",
-        "topics": []
-      },
-      {
-        "title": "Eightydvec: a method for protein sequence similarity analysis using physicochemical properties of amino acids",
-        "authors": "RK Rout, S Umer, S Sheikh, S Sindhwani, S Pati",
-        "venue": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2022",
-        "year": "2022",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:mVmsd5A6BfQC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2022_32,\n  title={Eightydvec: a method for protein sequence similarity analysis using physicochemical properties of amino acids},\n  author={RK Rout, S Umer, S Sheikh, S Sindhwani, S Pati},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_32,\n  title={Unsupervised learning for feature representation using spatial distribution of amino acids in aldehyde dehydrogenase (aldh2) protein sequences},\n  author={M Khandelwal, S Sheikh, RK Rout, S Umer, S Mallik, Z Zhao},\n  journal={Mathematics 10 (13), 2228, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -209,7 +209,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:Zph67rFs4hoC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_18,\n  title={Intelligent classification and analysis of essential genes using quantitative methods},\n  author={RK Rout, SKS Hassan, S Sindhwani, HM Pandey, S Umer},\n  journal={ACM Transactions on Multimedia Computing, Communications, and Applications …, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_17,\n  title={Intelligent classification and analysis of essential genes using quantitative methods},\n  author={RK Rout, SKS Hassan, S Sindhwani, HM Pandey, S Umer},\n  journal={ACM Transactions on Multimedia Computing, Communications, and Applications …, 2020},\n  year={2020}\n}",
         "topics": []
       },
       {
@@ -220,7 +220,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:R3hNpaxXUhUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_40,\n  title={A Quantitative Genomic View of the coronaviruses: SARS-COV2},\n  author={SS Hassan, RK Rout, V Sharma},\n  journal={Preprints, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_41,\n  title={A Quantitative Genomic View of the coronaviruses: SARS-COV2},\n  author={SS Hassan, RK Rout, V Sharma},\n  journal={Preprints, 2020},\n  year={2020}\n}",
         "topics": []
       },
       {
@@ -343,7 +343,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:-f6ydRqryjwC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_12,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RKR Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_13,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RKR Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -365,7 +365,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:3s1wT3WcHBgC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_29,\n  title={PRMxAI: protein arginine methylation sites prediction based on amino acid spatial distribution using explainable artificial intelligence},\n  author={M Khandelwal, RK Rout},\n  journal={BMC bioinformatics 24 (1), 376, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_30,\n  title={PRMxAI: protein arginine methylation sites prediction based on amino acid spatial distribution using explainable artificial intelligence},\n  author={M Khandelwal, RK Rout},\n  journal={BMC bioinformatics 24 (1), 376, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -398,7 +398,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:g5m5HwL7SMYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_39,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_40,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -510,7 +510,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:9ZlFYXVOiuMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_13,\n  title={Deep features based convolutional neural network model for text and non-text region segmentation from document images},\n  author={S Umer, R Mondal, HM Pandey, RK Rout},\n  journal={Applied Soft Computing 113, 107917, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_12,\n  title={Deep features based convolutional neural network model for text and non-text region segmentation from document images},\n  author={S Umer, R Mondal, HM Pandey, RK Rout},\n  journal={Applied Soft Computing 113, 107917, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -521,7 +521,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:4TOpqqG69KYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_17,\n  title={Machine learning techniques for IoT data analytics},\n  author={N Afshan, RK Rout},\n  journal={Big data analytics for internet of things, 89-113, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_18,\n  title={Machine learning techniques for IoT data analytics},\n  author={N Afshan, RK Rout},\n  journal={Big data analytics for internet of things, 89-113, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -532,7 +532,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:HDshCWvjkbEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_27,\n  title={A Vicenary analysis of SARS-CoV-2 genomes},\n  author={SS Hassan, RK Rout, KS Sahoo, N Jhanjhi, S Umer, TA Tabbakh, ...},\n  journal={Cmc-Computers Materials & Continua, 3477-3493, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_28,\n  title={A Vicenary analysis of SARS-CoV-2 genomes},\n  author={SS Hassan, RK Rout, KS Sahoo, N Jhanjhi, S Umer, TA Tabbakh, ...},\n  journal={Cmc-Computers Materials & Continua, 3477-3493, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -650,6 +650,17 @@
         "topics": []
       },
       {
+        "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
+        "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
+        "venue": "Scientific reports 14 (1), 7154, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_39,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
         "title": "DeepPRMS: advanced deep learning model to predict protein arginine methylation sites",
         "authors": "M Khandelwal, R Kumar Rout",
         "venue": "Briefings in Functional Genomics 23 (4), 452-463, 2024",
@@ -657,7 +668,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:yD5IFk8b50cC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_41,\n  title={DeepPRMS: advanced deep learning model to predict protein arginine methylation sites},\n  author={M Khandelwal, R Kumar Rout},\n  journal={Briefings in Functional Genomics 23 (4), 452-463, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_42,\n  title={DeepPRMS: advanced deep learning model to predict protein arginine methylation sites},\n  author={M Khandelwal, R Kumar Rout},\n  journal={Briefings in Functional Genomics 23 (4), 452-463, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -668,18 +679,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_42,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia Tools and Applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
-        "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
-        "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
-        "venue": "Scientific reports 14 (1), 7154, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_43,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_43,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia Tools and Applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -760,7 +760,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:UeHWp8X0CEIC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2017_28,\n  title={Affine Boolean classification in secret image sharing for progressive quality access control},\n  author={T Bhattacharjee, RK Rout, SP Maity},\n  journal={Journal of Information Security and Applications 33, 16-29, 2017},\n  year={2017}\n}",
+        "bibtex": "@article{scholar_2017_29,\n  title={Affine Boolean classification in secret image sharing for progressive quality access control},\n  author={T Bhattacharjee, RK Rout, SP Maity},\n  journal={Journal of Information Security and Applications 33, 16-29, 2017},\n  year={2017}\n}",
         "topics": []
       }
     ],
