@@ -141,7 +141,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:bEWYMUwI8FkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_42,\n  title={A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor},\n  author={MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...},\n  journal={Intelligent Automation & Soft Computing, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_43,\n  title={A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor},\n  author={MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...},\n  journal={Intelligent Automation & Soft Computing, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -220,7 +220,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:R3hNpaxXUhUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_43,\n  title={A Quantitative Genomic View of the coronaviruses: SARS-COV2},\n  author={SS Hassan, RK Rout, V Sharma},\n  journal={Preprints, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_44,\n  title={A Quantitative Genomic View of the coronaviruses: SARS-COV2},\n  author={SS Hassan, RK Rout, V Sharma},\n  journal={Preprints, 2020},\n  year={2020}\n}",
         "topics": []
       },
       {
@@ -409,7 +409,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:RGFaLdJalmkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_41,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, R Rout, S Tiwari, A Alzubi, J Alanazi, K Yurii},\n  journal={Computer Modeling in Engineering & Sciences 135 (2), 1165, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_42,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, R Rout, S Tiwari, A Alzubi, J Alanazi, K Yurii},\n  journal={Computer Modeling in Engineering & Sciences 135 (2), 1165, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -626,6 +626,17 @@
         "topics": []
       },
       {
+        "title": "An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier",
+        "authors": "N Venkata MahaLakshmi, RK Rout",
+        "venue": "Multimedia Tools and Applications 83 (13), 39841-39865, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_40,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia Tools and Applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
         "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
         "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
         "venue": "Scientific reports 14 (1), 7154, 2024",
@@ -633,7 +644,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_40,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_41,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -644,18 +655,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:yD5IFk8b50cC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_44,\n  title={DeepPRMS: advanced deep learning model to predict protein arginine methylation sites},\n  author={M Khandelwal, R Kumar Rout},\n  journal={Briefings in Functional Genomics 23 (4), 452-463, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
-        "title": "An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier",
-        "authors": "N Venkata MahaLakshmi, RK Rout",
-        "venue": "Multimedia Tools and Applications 83 (13), 39841-39865, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_45,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia Tools and Applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_45,\n  title={DeepPRMS: advanced deep learning model to predict protein arginine methylation sites},\n  author={M Khandelwal, R Kumar Rout},\n  journal={Briefings in Functional Genomics 23 (4), 452-463, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
