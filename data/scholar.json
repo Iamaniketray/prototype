@@ -42,7 +42,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:7PzlFSSx8tAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_16,\n  title={Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences},\n  author={RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi},\n  journal={Computers in biology and medicine 141, 105024, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_17,\n  title={Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences},\n  author={RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi},\n  journal={Computers in biology and medicine 141, 105024, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -152,7 +152,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:j3f4tGmQtD8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_47,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_48,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -365,7 +365,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:3s1wT3WcHBgC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_26,\n  title={PRMxAI: protein arginine methylation sites prediction based on amino acid spatial distribution using explainable artificial intelligence},\n  author={M Khandelwal, RK Rout},\n  journal={BMC bioinformatics 24 (1), 376, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_25,\n  title={PRMxAI: protein arginine methylation sites prediction based on amino acid spatial distribution using explainable artificial intelligence},\n  author={M Khandelwal, RK Rout},\n  journal={BMC bioinformatics 24 (1), 376, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -413,17 +413,6 @@
         "topics": []
       },
       {
-        "title": "Variation of deep features analysis for facial expression recognition system",
-        "authors": "N Shabbir, RK Rout",
-        "venue": "Multimedia Tools and Applications 82 (8), 11507-11522, 2023",
-        "year": "2023",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2023_46,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
-        "topics": []
-      },
-      {
         "title": "Advancement of deep learning and its applications in object detection and recognition",
         "authors": "RN Mir, VK Sharma, RK Rout, S Umer",
         "venue": "CRC Press, 2023",
@@ -431,7 +420,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:p2g8aNsByqUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_49,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_46,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
+        "topics": []
+      },
+      {
+        "title": "Variation of deep features analysis for facial expression recognition system",
+        "authors": "N Shabbir, RK Rout",
+        "venue": "Multimedia Tools and Applications 82 (8), 11507-11522, 2023",
+        "year": "2023",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2023_47,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -521,7 +521,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:4TOpqqG69KYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_17,\n  title={Machine learning techniques for IoT data analytics},\n  author={N Afshan, RK Rout},\n  journal={Big data analytics for internet of things, 89-113, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_16,\n  title={Machine learning techniques for IoT data analytics},\n  author={N Afshan, RK Rout},\n  journal={Big data analytics for internet of things, 89-113, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -666,7 +666,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_48,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_49,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -747,7 +747,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:roLk4NBRz8UC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2019_25,\n  title={Dynamics of the modified n-degree Lorenz system},\n  author={S Hassan, MP Reddy, RK Rout},\n  journal={Applied Mathematics and Nonlinear Sciences 4 (2), 315-330, 2019},\n  year={2019}\n}",
+        "bibtex": "@article{scholar_2019_26,\n  title={Dynamics of the modified n-degree Lorenz system},\n  author={S Hassan, MP Reddy, RK Rout},\n  journal={Applied Mathematics and Nonlinear Sciences 4 (2), 315-330, 2019},\n  year={2019}\n}",
         "topics": []
       }
     ],
