@@ -152,7 +152,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:j3f4tGmQtD8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_47,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_48,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -343,7 +343,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:-f6ydRqryjwC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_10,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RKR Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_9,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RKR Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -403,24 +403,13 @@
       },
       {
         "title": "Human-computer interaction using deep fusion model-based facial expression recognition system",
-        "authors": "S Umer, R Rout, S Tiwari, A Alzubi, J Alanazi, K Yurii",
-        "venue": "Computer Modeling in Engineering & Sciences 135 (2), 1165, 2023",
+        "authors": "S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii",
+        "venue": "CMES-Computer Model Eng Sci 135 (2), 1165-1185, 2023",
         "year": "2023",
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:RGFaLdJalmkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_39,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, R Rout, S Tiwari, A Alzubi, J Alanazi, K Yurii},\n  journal={Computer Modeling in Engineering & Sciences 135 (2), 1165, 2023},\n  year={2023}\n}",
-        "topics": []
-      },
-      {
-        "title": "Variation of deep features analysis for facial expression recognition system",
-        "authors": "N Shabbir, RK Rout",
-        "venue": "Multimedia Tools and Applications 82 (8), 11507-11522, 2023",
-        "year": "2023",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2023_46,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_39,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Model Eng Sci 135 (2), 1165-1185, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -431,7 +420,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:p2g8aNsByqUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_49,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_46,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
+        "topics": []
+      },
+      {
+        "title": "Variation of deep features analysis for facial expression recognition system",
+        "authors": "N Shabbir, RK Rout",
+        "venue": "Multimedia Tools and Applications 82 (8), 11507-11522, 2023",
+        "year": "2023",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2023_47,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -666,7 +666,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_48,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_49,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -926,7 +926,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:0EnyYjriUFMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_9,\n  title={ANT colony optimization based optimal path selection and data gathering in WSN},\n  author={BM Sahoo, RK Rout, S Umer, HM Pandey},\n  journal={2020 International Conference on Computation, Automation and Knowledge …, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_10,\n  title={ANT colony optimization based optimal path selection and data gathering in WSN},\n  author={BM Sahoo, RK Rout, S Umer, HM Pandey},\n  journal={2020 International Conference on Computation, Automation and Knowledge …, 2020},\n  year={2020}\n}",
         "topics": []
       },
       {
