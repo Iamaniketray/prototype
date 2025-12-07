@@ -141,7 +141,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:bEWYMUwI8FkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_40,\n  title={A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor},\n  author={MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...},\n  journal={Intelligent Automation & Soft Computing, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_35,\n  title={A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor},\n  author={MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...},\n  journal={Intelligent Automation & Soft Computing, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -152,7 +152,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:j3f4tGmQtD8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_48,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_47,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -376,7 +376,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:g5m5HwL7SMYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_36,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_37,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -387,7 +387,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:HoB7MX3m0LUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_37,\n  title={IoT-Enabled Multimodal Biometric Recognition System in Secure Environment},\n  author={S Umer, A Sardar, RK Rout, M Tanveer, I Razzak},\n  journal={IEEE Internet of Things Journal, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_38,\n  title={IoT-Enabled Multimodal Biometric Recognition System in Secure Environment},\n  author={S Umer, A Sardar, RK Rout, M Tanveer, I Razzak},\n  journal={IEEE Internet of Things Journal, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -398,7 +398,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:35N4QoGY0k4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_38,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_39,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -409,18 +409,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:RGFaLdJalmkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_39,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Model Eng Sci 135 (2), 1165-1185, 2023},\n  year={2023}\n}",
-        "topics": []
-      },
-      {
-        "title": "Advancement of deep learning and its applications in object detection and recognition",
-        "authors": "RN Mir, VK Sharma, RK Rout, S Umer",
-        "venue": "CRC Press, 2023",
-        "year": "2023",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:p2g8aNsByqUC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2023_46,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_40,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Model Eng Sci 135 (2), 1165-1185, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -431,7 +420,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_47,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_46,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "topics": []
+      },
+      {
+        "title": "Advancement of deep learning and its applications in object detection and recognition",
+        "authors": "RN Mir, VK Sharma, RK Rout, S Umer",
+        "venue": "CRC Press, 2023",
+        "year": "2023",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:p2g8aNsByqUC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2023_49,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -666,7 +666,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_49,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_48,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -797,7 +797,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:YsMSGLbcyi4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2015_35,\n  title={Partitioning 1-variable Boolean functions for various classification of n-variable Boolean functions},\n  author={RK Rout, PP Choudhury, S Sahoo, C Ray},\n  journal={International Journal of Computer Mathematics 92 (10), 2066-2090, 2015},\n  year={2015}\n}",
+        "bibtex": "@article{scholar_2015_36,\n  title={Partitioning 1-variable Boolean functions for various classification of n-variable Boolean functions},\n  author={RK Rout, PP Choudhury, S Sahoo, C Ray},\n  journal={International Journal of Computer Mathematics 92 (10), 2066-2090, 2015},\n  year={2015}\n}",
         "topics": []
       },
       {
