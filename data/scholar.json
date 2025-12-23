@@ -387,7 +387,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:g5m5HwL7SMYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_38,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_39,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -398,7 +398,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:35N4QoGY0k4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_39,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_40,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -409,7 +409,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:RGFaLdJalmkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_40,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Model Eng Sci 135 (2), 1165-1185, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_41,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Model Eng Sci 135 (2), 1165-1185, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -633,7 +633,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_41,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_38,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
