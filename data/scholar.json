@@ -152,7 +152,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:j3f4tGmQtD8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_49,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_48,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RK Rout, S Umer, S Sheikh, AL Sangal},\n  journal={CRC Press, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -398,7 +398,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:g5m5HwL7SMYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_38,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_39,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and Vision Computing 137, 104770, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -413,17 +413,6 @@
         "topics": []
       },
       {
-        "title": "Advancement of deep learning and its applications in object detection and recognition",
-        "authors": "RN Mir, VK Sharma, RK Rout, S Umer",
-        "venue": "CRC Press, 2023",
-        "year": "2023",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:p2g8aNsByqUC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2023_47,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
-        "topics": []
-      },
-      {
         "title": "Variation of deep features analysis for facial expression recognition system",
         "authors": "N Shabbir, RK Rout",
         "venue": "Multimedia Tools and Applications 82 (8), 11507-11522, 2023",
@@ -431,7 +420,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:GnPB-g6toBAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_48,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_47,\n  title={Variation of deep features analysis for facial expression recognition system},\n  author={N Shabbir, RK Rout},\n  journal={Multimedia Tools and Applications 82 (8), 11507-11522, 2023},\n  year={2023}\n}",
+        "topics": []
+      },
+      {
+        "title": "Advancement of deep learning and its applications in object detection and recognition",
+        "authors": "RN Mir, VK Sharma, RK Rout, S Umer",
+        "venue": "CRC Press, 2023",
+        "year": "2023",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:p2g8aNsByqUC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2023_50,\n  title={Advancement of deep learning and its applications in object detection and recognition},\n  author={RN Mir, VK Sharma, RK Rout, S Umer},\n  journal={CRC Press, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -626,17 +626,6 @@
         "topics": []
       },
       {
-        "title": "An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier",
-        "authors": "N Venkata MahaLakshmi, RK Rout",
-        "venue": "Multimedia Tools and Applications 83 (13), 39841-39865, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_40,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia Tools and Applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
         "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
         "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
         "venue": "Scientific reports 14 (1), 7154, 2024",
@@ -644,7 +633,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_41,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_38,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
+        "title": "An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier",
+        "authors": "N Venkata MahaLakshmi, RK Rout",
+        "venue": "Multimedia Tools and Applications 83 (13), 39841-39865, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_41,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia Tools and Applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -677,7 +677,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:fPk4N6BV_jEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_50,\n  title={Descriptive and inferential analysis of features for Dysphonia and Dysarthria Parkinson’s disease symptoms},\n  author={S Umer, RK Rout},\n  journal={Health Services and Outcomes Research Methodology 24 (3), 304-326, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_49,\n  title={Descriptive and inferential analysis of features for Dysphonia and Dysarthria Parkinson’s disease symptoms},\n  author={S Umer, RK Rout},\n  journal={Health Services and Outcomes Research Methodology 24 (3), 304-326, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -797,7 +797,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:YsMSGLbcyi4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2015_39,\n  title={Partitioning 1-variable Boolean functions for various classification of n-variable Boolean functions},\n  author={RK Rout, PP Choudhury, S Sahoo, C Ray},\n  journal={International Journal of Computer Mathematics 92 (10), 2066-2090, 2015},\n  year={2015}\n}",
+        "bibtex": "@article{scholar_2015_40,\n  title={Partitioning 1-variable Boolean functions for various classification of n-variable Boolean functions},\n  author={RK Rout, PP Choudhury, S Sahoo, C Ray},\n  journal={International Journal of Computer Mathematics 92 (10), 2066-2090, 2015},\n  year={2015}\n}",
         "topics": []
       },
       {
