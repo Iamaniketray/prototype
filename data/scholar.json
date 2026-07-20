@@ -492,17 +492,6 @@
         "topics": []
       },
       {
-        "title": "SMEOR: Sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network",
-        "authors": "AD Gupta, R Kumar Rout",
-        "venue": "International Journal of Communication Systems 37 (4), e5679, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:cFHS6HbyZ2cC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_12,\n  title={SMEOR: Sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network},\n  author={AD Gupta, R Kumar Rout},\n  journal={International Journal of Communication Systems 37 (4), e5679, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
         "title": "Enhanced biometric template protection schemes for securing face recognition in IoT environment",
         "authors": "A Sardar, S Umer, RK Rout, KS Sahoo, AH Gandomi",
         "venue": "IEEE Internet of Things Journal 11 (13), 23196-23206, 2024",
@@ -510,7 +499,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:_xSYboBqXhAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_13,\n  title={Enhanced biometric template protection schemes for securing face recognition in IoT environment},\n  author={A Sardar, S Umer, RK Rout, KS Sahoo, AH Gandomi},\n  journal={IEEE Internet of Things Journal 11 (13), 23196-23206, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_12,\n  title={Enhanced biometric template protection schemes for securing face recognition in IoT environment},\n  author={A Sardar, S Umer, RK Rout, KS Sahoo, AH Gandomi},\n  journal={IEEE Internet of Things Journal 11 (13), 23196-23206, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
+        "title": "SMEOR: Sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network",
+        "authors": "AD Gupta, R Kumar Rout",
+        "venue": "International Journal of Communication Systems 37 (4), e5679, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:cFHS6HbyZ2cC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_13,\n  title={SMEOR: Sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network},\n  author={AD Gupta, R Kumar Rout},\n  journal={International Journal of Communication Systems 37 (4), e5679, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
