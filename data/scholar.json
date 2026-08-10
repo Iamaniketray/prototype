@@ -90,17 +90,6 @@
         "topics": []
       },
       {
-        "title": "A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor",
-        "authors": "MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...",
-        "venue": "Intelligent Automation & Soft Computing, 2022",
-        "year": "2022",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:bEWYMUwI8FkC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2022_30,\n  title={A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor},\n  author={MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...},\n  journal={Intelligent Automation & Soft Computing, 2022},\n  year={2022}\n}",
-        "topics": []
-      },
-      {
         "title": "Multifactorial feature extraction and site prognosis model for protein methylation data",
         "authors": "AL Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Saurav Mallik",
         "venue": "Briefings in Functional Genomics, https://doi.org/10.1093/bfgp/elac034, 2022",
@@ -108,7 +97,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:blknAaTinKkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_34,\n  title={Multifactorial feature extraction and site prognosis model for protein methylation data},\n  author={AL Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Saurav Mallik},\n  journal={Briefings in Functional Genomics, https://doi.org/10.1093/bfgp/elac034, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_30,\n  title={Multifactorial feature extraction and site prognosis model for protein methylation data},\n  author={AL Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Saurav Mallik},\n  journal={Briefings in Functional Genomics, https://doi.org/10.1093/bfgp/elac034, 2022},\n  year={2022}\n}",
+        "topics": []
+      },
+      {
+        "title": "A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor",
+        "authors": "MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...",
+        "venue": "Intelligent Automation & Soft Computing, 2022",
+        "year": "2022",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:bEWYMUwI8FkC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2022_31,\n  title={A Pattern Classification Model for Vowel Data Using Fuzzy Nearest Neighbor},\n  author={MM Monika Khandelwal, Ranjeet Kumar Rout, Saiyed Umer, Kshira Sagar Sahoo ...},\n  journal={Intelligent Automation & Soft Computing, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -152,7 +152,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:RGFaLdJalmkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_39,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Modeling in Engineering and Sciences 135 (2), 1165-1185, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_40,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Modeling in Engineering and Sciences 135 (2), 1165-1185, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -196,7 +196,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:4JMBOYKVnBMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_101,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RKR Saiyed Umer, Sabha Sheikh, A L Sangal},\n  journal={https://doi.org/10.1201/9781003246688, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_102,\n  title={Artificial Intelligence Technologies for Computational Biology},\n  author={RKR Saiyed Umer, Sabha Sheikh, A L Sangal},\n  journal={https://doi.org/10.1201/9781003246688, 2022},\n  year={2022}\n}",
         "topics": []
       }
     ],
@@ -308,7 +308,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:MXK_kJrjxJIC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_104,\n  title={A Quantitative Comparisons of -Coronavirus Genomes and Their Associated Genes},\n  author={SS Hassan, RK Rout},\n  journal={Preprints, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_105,\n  title={A Quantitative Comparisons of -Coronavirus Genomes and Their Associated Genes},\n  author={SS Hassan, RK Rout},\n  journal={Preprints, 2020},\n  year={2020}\n}",
         "topics": []
       }
     ],
@@ -398,7 +398,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:35N4QoGY0k4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_40,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_39,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -409,7 +409,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:g5m5HwL7SMYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_43,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and vision computing 137, 104770, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_44,\n  title={FgbCNN: A unified bilinear architecture for learning a fine-grained feature representation in facial expression recognition},\n  author={N Shabbir, RK Rout},\n  journal={Image and vision computing 137, 104770, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -475,7 +475,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:KlAtU1dfN6UC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_98,\n  title={Applied Mathematics and Nonlinear Sciences},\n  author={NABMS RUSMAN},\n  journal={},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_99,\n  title={Applied Mathematics and Nonlinear Sciences},\n  author={NABMS RUSMAN},\n  journal={},\n  year={2023}\n}",
         "topics": []
       }
     ],
@@ -543,7 +543,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_32,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_33,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -554,7 +554,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_33,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia tools and applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_34,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia tools and applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -565,7 +565,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:yD5IFk8b50cC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_44,\n  title={DeepPRMS: advanced deep learning model to predict protein arginine methylation sites},\n  author={M Khandelwal, R Kumar Rout},\n  journal={Briefings in Functional Genomics 23 (4), 452-463, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_43,\n  title={DeepPRMS: advanced deep learning model to predict protein arginine methylation sites},\n  author={M Khandelwal, R Kumar Rout},\n  journal={Briefings in Functional Genomics 23 (4), 452-463, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -609,7 +609,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:UxriW0iASnsC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_94,\n  title={Discover Applied Sciences},\n  author={G Dwivedi, M Khandelwal, RK Rout, S Umer, S Mallik, H Qin},\n  journal={},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_95,\n  title={Discover Applied Sciences},\n  author={G Dwivedi, M Khandelwal, RK Rout, S Umer, S Mallik, H Qin},\n  journal={},\n  year={2024}\n}",
         "topics": []
       }
     ],
@@ -688,7 +688,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:Tiz5es2fbqcC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_102,\n  title={5 Modified Artificial Fish Swarm Optimization Based Clustering in Wireless Sensor},\n  author={BM Sahoo, RC Sahoo, N Paul, A Tomar, RK Rout},\n  journal={Smart Sensor Networks Using AI for Industry 4.0: Applications and New …, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_103,\n  title={5 Modified Artificial Fish Swarm Optimization Based Clustering in Wireless Sensor},\n  author={BM Sahoo, RC Sahoo, N Paul, A Tomar, RK Rout},\n  journal={Smart Sensor Networks Using AI for Industry 4.0: Applications and New …, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -699,7 +699,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:qxL8FJ1GzNcC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_103,\n  title={Encryption and Decryption Scheme for IoT Communications Using Multilevel Encryption},\n  author={S Sindhwani, S Sheikh, S Umer, RK Rout},\n  journal={Information and Communication Technology for Competitive Strategies (ICTCS …, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_104,\n  title={Encryption and Decryption Scheme for IoT Communications Using Multilevel Encryption},\n  author={S Sindhwani, S Sheikh, S Umer, RK Rout},\n  journal={Information and Communication Technology for Competitive Strategies (ICTCS …, 2021},\n  year={2021}\n}",
         "topics": []
       }
     ],
@@ -723,7 +723,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:W7OEmFMy1HYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2018_106,\n  title={Classification of Boolean functions and Applications},\n  author={RK Rout},\n  journal={IIEST Shibpur,, 2018},\n  year={2018}\n}",
+        "bibtex": "@article{scholar_2018_107,\n  title={Classification of Boolean functions and Applications},\n  author={RK Rout},\n  journal={IIEST Shibpur,, 2018},\n  year={2018}\n}",
         "topics": []
       }
     ],
@@ -749,7 +749,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:UeHWp8X0CEIC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2017_31,\n  title={Affine Boolean classification in secret image sharing for progressive quality access control},\n  author={T Bhattacharjee, RK Rout, SP Maity},\n  journal={Journal of Information Security and Applications 33, 16-29, 2017},\n  year={2017}\n}",
+        "bibtex": "@article{scholar_2017_32,\n  title={Affine Boolean classification in secret image sharing for progressive quality access control},\n  author={T Bhattacharjee, RK Rout, SP Maity},\n  journal={Journal of Information Security and Applications 33, 16-29, 2017},\n  year={2017}\n}",
         "topics": []
       }
     ],
@@ -797,7 +797,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:uWQEDVKXjbEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2013_111,\n  title={Research Article Classification of Boolean Functions Where Affine Functions Are Uniformly Distributed},\n  author={RK Rout, PP Choudhury, S Sahoo},\n  journal={},\n  year={2013}\n}",
+        "bibtex": "@article{scholar_2013_112,\n  title={Research Article Classification of Boolean Functions Where Affine Functions Are Uniformly Distributed},\n  author={RK Rout, PP Choudhury, S Sahoo},\n  journal={},\n  year={2013}\n}",
         "topics": []
       }
     ],
@@ -821,7 +821,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:zYLM7Y9cAGgC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2014_109,\n  title={Analysis of Boolean Functions based on Interaction Graphs and their influence in System Biology},\n  author={JK Das, RK Rout, PP Choudhury},\n  journal={arXiv preprint arXiv:1409.7136, 2014},\n  year={2014}\n}",
+        "bibtex": "@article{scholar_2014_110,\n  title={Analysis of Boolean Functions based on Interaction Graphs and their influence in System Biology},\n  author={JK Das, RK Rout, PP Choudhury},\n  journal={arXiv preprint arXiv:1409.7136, 2014},\n  year={2014}\n}",
         "topics": []
       },
       {
@@ -832,7 +832,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:9yKSN-GCB0IC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2014_110,\n  title={Underlying Effect of miRNA Patterns for Identification of Human Diseases},\n  author={RK Rout, S Singh, PP Choudhury, U Chakraborty, B Barman},\n  journal={},\n  year={2014}\n}",
+        "bibtex": "@article{scholar_2014_111,\n  title={Underlying Effect of miRNA Patterns for Identification of Human Diseases},\n  author={RK Rout, S Singh, PP Choudhury, U Chakraborty, B Barman},\n  journal={},\n  year={2014}\n}",
         "topics": []
       }
     ],
@@ -928,6 +928,17 @@
         "topics": []
       },
       {
+        "title": "PLM-ArgMe: Protein Language Model for Arginine Methylation Prediction for Different Species",
+        "authors": "N Bhatt, K Joshi, RK Rout, A Vyas, S Umer",
+        "venue": "Biochemical and Biophysical Research Communications, 154391, 2026",
+        "year": "2026",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:q3oQSFYPqjQC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2026_84,\n  title={PLM-ArgMe: Protein Language Model for Arginine Methylation Prediction for Different Species},\n  author={N Bhatt, K Joshi, RK Rout, A Vyas, S Umer},\n  journal={Biochemical and Biophysical Research Communications, 154391, 2026},\n  year={2026}\n}",
+        "topics": []
+      },
+      {
         "title": "A Streamlined Client-Server Architecture for Sustainable Sentiment Analysis System Using Textual Data",
         "authors": "S De, R Akhtar, S Umer, RK Rout, MNA GG",
         "venue": "Computers, Materials & Continua 88 (1), 2026",
@@ -935,7 +946,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:fQNAKQ3IYiAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_84,\n  title={A Streamlined Client-Server Architecture for Sustainable Sentiment Analysis System Using Textual Data},\n  author={S De, R Akhtar, S Umer, RK Rout, MNA GG},\n  journal={Computers, Materials & Continua 88 (1), 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_85,\n  title={A Streamlined Client-Server Architecture for Sustainable Sentiment Analysis System Using Textual Data},\n  author={S De, R Akhtar, S Umer, RK Rout, MNA GG},\n  journal={Computers, Materials & Continua 88 (1), 2026},\n  year={2026}\n}",
         "topics": []
       },
       {
@@ -946,7 +957,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:5Ul4iDaHHb8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_85,\n  title={PlanetNet-MMG: A Robust Multi-Modal Graph-Based Deep Learning Model for Exoplanet Candidate Classification},\n  author={NPK Dubey, L Behera, RK Rout, S Umer, DK Jain, J Andreu-Perez},\n  journal={Expert Systems with Applications, 132396, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_86,\n  title={PlanetNet-MMG: A Robust Multi-Modal Graph-Based Deep Learning Model for Exoplanet Candidate Classification},\n  author={NPK Dubey, L Behera, RK Rout, S Umer, DK Jain, J Andreu-Perez},\n  journal={Expert Systems with Applications, 132396, 2026},\n  year={2026}\n}",
         "topics": []
       },
       {
@@ -957,7 +968,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:D_sINldO8mEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_88,\n  title={Predicting saffron yield from data-driven to soil fertility analysis in an agroinformatics framework},\n  author={I Nazeer, RK Rout, S Umer},\n  journal={Procedia Computer Science 283, 2703-2716, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_89,\n  title={Predicting saffron yield from data-driven to soil fertility analysis in an agroinformatics framework},\n  author={I Nazeer, RK Rout, S Umer},\n  journal={Procedia Computer Science 283, 2703-2716, 2026},\n  year={2026}\n}",
         "topics": []
       },
       {
@@ -968,7 +979,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:vRqMK49ujn8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_89,\n  title={SAPxAI: Deep Features with Explainable Artificial Intelligence Techniques for},\n  author={I Nazeer, RK Rout¹, S Umer},\n  journal={Computer Vision, Pattern Recognition, Image Processing, and Graphics: 10th …, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_90,\n  title={SAPxAI: Deep Features with Explainable Artificial Intelligence Techniques for},\n  author={I Nazeer, RK Rout¹, S Umer},\n  journal={Computer Vision, Pattern Recognition, Image Processing, and Graphics: 10th …, 2026},\n  year={2026}\n}",
         "topics": []
       }
     ]
@@ -1005,7 +1016,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:ULOm3_A8WrAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_105,\n  title={Analysis of Human Olfactory Receptor system using Fractal Dimension},\n  author={RK Rout, S Umer, S Pati, HS Pali},\n  journal={IOP Conference Series: Materials Science and Engineering 804 (1), 012045, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_106,\n  title={Analysis of Human Olfactory Receptor system using Fractal Dimension},\n  author={RK Rout, S Umer, S Pati, HS Pali},\n  journal={IOP Conference Series: Materials Science and Engineering 804 (1), 012045, 2020},\n  year={2020}\n}",
         "topics": []
       }
     ],
@@ -1061,10 +1072,10 @@
         "authors": "NVM Lakshmi, RK Rout",
         "venue": "Artificial Intelligence and Data Science: First International Conference …, 2022",
         "year": "2022",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:f2IySw72cVMC",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:f2IySw72cVMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_99,\n  title={of Cardiac Arrest at an Early Stage of Disease},\n  author={NVM Lakshmi, RK Rout},\n  journal={Artificial Intelligence and Data Science: First International Conference …, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_100,\n  title={of Cardiac Arrest at an Early Stage of Disease},\n  author={NVM Lakshmi, RK Rout},\n  journal={Artificial Intelligence and Data Science: First International Conference …, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -1075,7 +1086,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:RYcK_YlVTxYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_100,\n  title={Face Recognition System Using Multicolor Image Analysis and Template Protection with BioCryptosystem},\n  author={A Sardar, S Umer, RK Rout},\n  journal={International Conference on Image and Vision Computing New Zealand, 457-473, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_101,\n  title={Face Recognition System Using Multicolor Image Analysis and Template Protection with BioCryptosystem},\n  author={A Sardar, S Umer, RK Rout},\n  journal={International Conference on Image and Vision Computing New Zealand, 457-473, 2022},\n  year={2022}\n}",
         "topics": []
       }
     ],
@@ -1158,7 +1169,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:4OULZ7Gr8RgC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_95,\n  title={Fine-Grained Attribute-Object Feature Representation in Compositional Zero-Shot Learning},\n  author={N Shabbir, RK Rout, S Umer, PP Mohanta},\n  journal={International Conference on Pattern Recognition and Machine Intelligence …, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_96,\n  title={Fine-Grained Attribute-Object Feature Representation in Compositional Zero-Shot Learning},\n  author={N Shabbir, RK Rout, S Umer, PP Mohanta},\n  journal={International Conference on Pattern Recognition and Machine Intelligence …, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -1169,7 +1180,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:D03iK_w7-QYC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_96,\n  title={Harnessing the Power of Machine Learning Algorithms for Landslide Susceptibility Prediction},\n  author={S Krishana, M Khandelwal, RK Rout, S Umer},\n  journal={International Conference on MAchine inTelligence for Research & Innovations …, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_97,\n  title={Harnessing the Power of Machine Learning Algorithms for Landslide Susceptibility Prediction},\n  author={S Krishana, M Khandelwal, RK Rout, S Umer},\n  journal={International Conference on MAchine inTelligence for Research & Innovations …, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -1180,7 +1191,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:vV6vV6tmYwMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_97,\n  title={Descriptive Predictive Model for Parkinson’s Disease Analysis},\n  author={A Ali, RK Rout, S Umer},\n  journal={Computational Intelligence: Select Proceedings of InCITe 2022, 105-118, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_98,\n  title={Descriptive Predictive Model for Parkinson’s Disease Analysis},\n  author={A Ali, RK Rout, S Umer},\n  journal={Computational Intelligence: Select Proceedings of InCITe 2022, 105-118, 2023},\n  year={2023}\n}",
         "topics": []
       }
     ],
@@ -1193,7 +1204,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:eJXPG6dFmWUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_86,\n  title={ECG Arrhythmia Classification Using a Lightweight Convolutional Neural Network},\n  author={I Nazeer, RK Rout},\n  journal={2026 International Conference on Intelligent Processing, Hardware …, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_87,\n  title={ECG Arrhythmia Classification Using a Lightweight Convolutional Neural Network},\n  author={I Nazeer, RK Rout},\n  journal={2026 International Conference on Intelligent Processing, Hardware …, 2026},\n  year={2026}\n}",
         "topics": []
       },
       {
@@ -1204,7 +1215,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:VOx2b1Wkg3QC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_87,\n  title={Statistical Analytical Review of QoS-Aware Resource Allocation and Performance Optimization Strategies in 5G and Emerging 6G Networks},\n  author={AK Agrawal, NK Rout, N Parida, RK Rout},\n  journal={2026 International Conference on Intelligent Processing, Hardware …, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_88,\n  title={Statistical Analytical Review of QoS-Aware Resource Allocation and Performance Optimization Strategies in 5G and Emerging 6G Networks},\n  author={AK Agrawal, NK Rout, N Parida, RK Rout},\n  journal={2026 International Conference on Intelligent Processing, Hardware …, 2026},\n  year={2026}\n}",
         "topics": []
       }
     ],
@@ -1217,7 +1228,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:08ZZubdj9fEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2025_90,\n  title={on Fine-Grained Deep Features},\n  author={I Nazeer, RK Rout, S Umer},\n  journal={Machine Intelligence for Research and Innovations: Proceedings of MAiTRI …, 2025},\n  year={2025}\n}",
+        "bibtex": "@article{scholar_2025_91,\n  title={on Fine-Grained Deep Features},\n  author={I Nazeer, RK Rout, S Umer},\n  journal={Machine Intelligence for Research and Innovations: Proceedings of MAiTRI …, 2025},\n  year={2025}\n}",
         "topics": []
       },
       {
@@ -1228,7 +1239,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:4fKUyHm3Qg0C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2025_91,\n  title={Protein Methylation Site Prediction Based on Spatial Feature of Amino Acids Using SMOTE and Stratified Cross-Validation},\n  author={H Punia, A Vyas, RK Rout},\n  journal={National Conference on Computer Vision, Pattern Recognition, Image …, 2025},\n  year={2025}\n}",
+        "bibtex": "@article{scholar_2025_92,\n  title={Protein Methylation Site Prediction Based on Spatial Feature of Amino Acids Using SMOTE and Stratified Cross-Validation},\n  author={H Punia, A Vyas, RK Rout},\n  journal={National Conference on Computer Vision, Pattern Recognition, Image …, 2025},\n  year={2025}\n}",
         "topics": []
       }
     ],
@@ -1241,7 +1252,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:tOudhMTPpwUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_92,\n  title={FRAD: A Face Recognition and Anti-spoofing Database for Biometric Applications},\n  author={S Umer, S Mandal, SZ Hossain, A Guha, RK Rout},\n  journal={International Conference on MAchine inTelligence for Research & Innovations …, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_93,\n  title={FRAD: A Face Recognition and Anti-spoofing Database for Biometric Applications},\n  author={S Umer, S Mandal, SZ Hossain, A Guha, RK Rout},\n  journal={International Conference on MAchine inTelligence for Research & Innovations …, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -1252,7 +1263,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:l7t_Zn2s7bgC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_93,\n  title={Saffron Adulteration Prediction Based on Fine-Grained Deep Features},\n  author={I Nazeer, RK Rout, S Umer},\n  journal={International Conference on MAchine inTelligence for Research & Innovations …, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_94,\n  title={Saffron Adulteration Prediction Based on Fine-Grained Deep Features},\n  author={I Nazeer, RK Rout, S Umer},\n  journal={International Conference on MAchine inTelligence for Research & Innovations …, 2024},\n  year={2024}\n}",
         "topics": []
       }
     ],
@@ -1265,7 +1276,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:d1gkVwhDpl0C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2016_107,\n  title={Identification of olfactory receptors using a parametric model},\n  author={P Sakhare, R Rani, RK Rout},\n  journal={2016 International Conference on Advances in Computing, Communications and …, 2016},\n  year={2016}\n}",
+        "bibtex": "@article{scholar_2016_108,\n  title={Identification of olfactory receptors using a parametric model},\n  author={P Sakhare, R Rani, RK Rout},\n  journal={2016 International Conference on Advances in Computing, Communications and …, 2016},\n  year={2016}\n}",
         "topics": []
       },
       {
@@ -1276,7 +1287,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&cstart=100&pagesize=100&citation_for_view=UYHadLQAAAAJ:qjMakFHDy7sC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2016_108,\n  title={Morphological approach for detection of protein spots from 2D-gel image},\n  author={BM Sahoo, RK Rout, MK Sah},\n  journal={2016 International Conference on Innovation and Challenges in Cyber Security …, 2016},\n  year={2016}\n}",
+        "bibtex": "@article{scholar_2016_109,\n  title={Morphological approach for detection of protein spots from 2D-gel image},\n  author={BM Sahoo, RK Rout, MK Sah},\n  journal={2016 International Conference on Innovation and Challenges in Cyber Security …, 2016},\n  year={2016}\n}",
         "topics": []
       }
     ]
