@@ -53,7 +53,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:7PzlFSSx8tAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_20,\n  title={Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences},\n  author={RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi},\n  journal={Computers in biology and medicine 141, 105024, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_21,\n  title={Feature-extraction and analysis based on spatial distribution of amino acids for SARS-CoV-2 Protein sequences},\n  author={RK Rout, SS Hassan, S Sheikh, S Umer, KS Sahoo, AH Gandomi},\n  journal={Computers in biology and medicine 141, 105024, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -231,7 +231,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:R3hNpaxXUhUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_49,\n  title={A Quantitative Genomic View of the coronaviruses: SARS-COV2},\n  author={SS Hassan, RK Rout, V Sharma},\n  journal={Preprints, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_50,\n  title={A Quantitative Genomic View of the coronaviruses: SARS-COV2},\n  author={SS Hassan, RK Rout, V Sharma},\n  journal={Preprints, 2020},\n  year={2020}\n}",
         "topics": []
       },
       {
@@ -365,7 +365,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:SeFeTyx0c_EC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_21,\n  title={Face recognition system with hybrid template protection scheme for cyber–physical-social services},\n  author={A Sardar, S Umer, RK Rout, C Pero},\n  journal={Pattern Recognition Letters 174, 17-24, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_20,\n  title={Face recognition system with hybrid template protection scheme for cyber–physical-social services},\n  author={A Sardar, S Umer, RK Rout, C Pero},\n  journal={Pattern Recognition Letters 174, 17-24, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -569,17 +569,6 @@
         "topics": []
       },
       {
-        "title": "Descriptive and inferential analysis of features for Dysphonia and Dysarthria Parkinson’s disease symptoms",
-        "authors": "S Umer, RK Rout",
-        "venue": "Health Services and Outcomes Research Methodology 24 (3), 304-326, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:fPk4N6BV_jEC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_50,\n  title={Descriptive and inferential analysis of features for Dysphonia and Dysarthria Parkinson’s disease symptoms},\n  author={S Umer, RK Rout},\n  journal={Health Services and Outcomes Research Methodology 24 (3), 304-326, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
         "title": "Rmsxai: arginine methylation sites prediction from protein sequences using machine learning algorithms and explainable artificial intelligence",
         "authors": "G Dwivedi, M Khandelwal, RK Rout, S Umer, S Mallik, H Qin",
         "venue": "Discover Applied Sciences 6 (7), 329, 2024",
@@ -587,7 +576,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:u_35RYKgDlwC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_51,\n  title={Rmsxai: arginine methylation sites prediction from protein sequences using machine learning algorithms and explainable artificial intelligence},\n  author={G Dwivedi, M Khandelwal, RK Rout, S Umer, S Mallik, H Qin},\n  journal={Discover Applied Sciences 6 (7), 329, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_48,\n  title={Rmsxai: arginine methylation sites prediction from protein sequences using machine learning algorithms and explainable artificial intelligence},\n  author={G Dwivedi, M Khandelwal, RK Rout, S Umer, S Mallik, H Qin},\n  journal={Discover Applied Sciences 6 (7), 329, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
+        "title": "Descriptive and inferential analysis of features for Dysphonia and Dysarthria Parkinson’s disease symptoms",
+        "authors": "S Umer, RK Rout",
+        "venue": "Health Services and Outcomes Research Methodology 24 (3), 304-326, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:fPk4N6BV_jEC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_51,\n  title={Descriptive and inferential analysis of features for Dysphonia and Dysarthria Parkinson’s disease symptoms},\n  author={S Umer, RK Rout},\n  journal={Health Services and Outcomes Research Methodology 24 (3), 304-326, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -1053,7 +1053,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:dfsIfKJdRG4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_48,\n  title={Prediction of protein-protein interaction using support vector machine based on spatial distribution of amino acids},\n  author={M Khandelwal, R Kumar Rout, S Umer},\n  journal={International Conference on Advances and Applications of Artificial …, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_49,\n  title={Prediction of protein-protein interaction using support vector machine based on spatial distribution of amino acids},\n  author={M Khandelwal, R Kumar Rout, S Umer},\n  journal={International Conference on Advances and Applications of Artificial …, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
