@@ -264,7 +264,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:TQgYirikUcIC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_66,\n  title={Spatial distribution of amino acids of the sars-cov2 proteins},\n  author={SS Hassan, RK Rout},\n  journal={},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_67,\n  title={Spatial distribution of amino acids of the sars-cov2 proteins},\n  author={SS Hassan, RK Rout},\n  journal={},\n  year={2020}\n}",
         "topics": []
       },
       {
@@ -453,7 +453,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:rO6llkc54NcC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_62,\n  title={A Novel Grid Ann for Prediction of Heart Disease},\n  author={RK Rout},\n  journal={2023 11th International Symposium on Electronic Systems Devices and …, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_63,\n  title={A Novel Grid Ann for Prediction of Heart Disease},\n  author={RK Rout},\n  journal={2023 11th International Symposium on Electronic Systems Devices and …, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -677,7 +677,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:M3ejUd6NZC8C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_65,\n  title={Modified Artificial Fish Swarm Optimization Based Clustering in Wireless Sensor Network},\n  author={BM Sahoo, RC Sahoo, N Paul, A Tomar, RK Rout},\n  journal={Smart Sensor Networks Using AI for Industry 4.0, 77-88, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_66,\n  title={Modified Artificial Fish Swarm Optimization Based Clustering in Wireless Sensor Network},\n  author={BM Sahoo, RC Sahoo, N Paul, A Tomar, RK Rout},\n  journal={Smart Sensor Networks Using AI for Industry 4.0, 77-88, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
@@ -849,6 +849,17 @@
         "topics": []
       },
       {
+        "title": "A novel pain sentiment detection system utilizing a PainCapsule model and textual facial patterns",
+        "authors": "A Ghosh, S Umer, BC Dhara, DK Jain, RK Rout, A Hussain",
+        "venue": "Neurocomputing, 130907, 2025",
+        "year": "2025",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:738O_yMBCRsC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2025_60,\n  title={A novel pain sentiment detection system utilizing a PainCapsule model and textual facial patterns},\n  author={A Ghosh, S Umer, BC Dhara, DK Jain, RK Rout, A Hussain},\n  journal={Neurocomputing, 130907, 2025},\n  year={2025}\n}",
+        "topics": []
+      },
+      {
         "title": "Integrating end-to-end multimodal deep learning and domain adaptation for robust facial expression recognition",
         "authors": "M Hassaballah, C Pero, RK Rout, S Umer",
         "venue": "Image and Vision Computing 159, 105548, 2025",
@@ -856,7 +867,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:XiSMed-E-HIC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2025_60,\n  title={Integrating end-to-end multimodal deep learning and domain adaptation for robust facial expression recognition},\n  author={M Hassaballah, C Pero, RK Rout, S Umer},\n  journal={Image and Vision Computing 159, 105548, 2025},\n  year={2025}\n}",
+        "bibtex": "@article{scholar_2025_61,\n  title={Integrating end-to-end multimodal deep learning and domain adaptation for robust facial expression recognition},\n  author={M Hassaballah, C Pero, RK Rout, S Umer},\n  journal={Image and Vision Computing 159, 105548, 2025},\n  year={2025}\n}",
         "topics": []
       },
       {
@@ -867,18 +878,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:abG-DnoFyZgC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2025_61,\n  title={Hybrid optimization assisted deep ensemble classification framework for skin cancer detection},\n  author={IR Pukhta, RK Rout},\n  journal={Multimedia Tools and Applications 84 (1), 63-94, 2025},\n  year={2025}\n}",
-        "topics": []
-      },
-      {
-        "title": "A novel pain sentiment detection system utilizing a PainCapsule model and textual facial patterns",
-        "authors": "A Ghosh, S Umer, BC Dhara, DK Jain, RK Rout, A Hussain",
-        "venue": "Neurocomputing, 130907, 2025",
-        "year": "2025",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:738O_yMBCRsC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2025_69,\n  title={A novel pain sentiment detection system utilizing a PainCapsule model and textual facial patterns},\n  author={A Ghosh, S Umer, BC Dhara, DK Jain, RK Rout, A Hussain},\n  journal={Neurocomputing, 130907, 2025},\n  year={2025}\n}",
+        "bibtex": "@article{scholar_2025_62,\n  title={Hybrid optimization assisted deep ensemble classification framework for skin cancer detection},\n  author={IR Pukhta, RK Rout},\n  journal={Multimedia Tools and Applications 84 (1), 63-94, 2025},\n  year={2025}\n}",
         "topics": []
       },
       {
@@ -924,18 +924,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:B3FOqHPlNUQC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_68,\n  title={AI-based mental health prediction and analysis system for ICT-integrated education technology: an empirical study},\n  author={K Ghosh, S Umer, RK Rout, G Fimiani},\n  journal={Multimedia Tools and Applications 85 (2), 53, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_69,\n  title={AI-based mental health prediction and analysis system for ICT-integrated education technology: an empirical study},\n  author={K Ghosh, S Umer, RK Rout, G Fimiani},\n  journal={Multimedia Tools and Applications 85 (2), 53, 2026},\n  year={2026}\n}",
         "topics": []
       },
       {
-        "title": "PLM-ArgMe: Protein Language Model for Arginine Methylation Prediction for Different Species",
+        "title": "PLM-ArgMe: Protein language model for arginine methylation prediction for different species",
         "authors": "N Bhatt, K Joshi, RK Rout, A Vyas, S Umer",
         "venue": "Biochemical and Biophysical Research Communications, 154391, 2026",
         "year": "2026",
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:q3oQSFYPqjQC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2026_84,\n  title={PLM-ArgMe: Protein Language Model for Arginine Methylation Prediction for Different Species},\n  author={N Bhatt, K Joshi, RK Rout, A Vyas, S Umer},\n  journal={Biochemical and Biophysical Research Communications, 154391, 2026},\n  year={2026}\n}",
+        "bibtex": "@article{scholar_2026_84,\n  title={PLM-ArgMe: Protein language model for arginine methylation prediction for different species},\n  author={N Bhatt, K Joshi, RK Rout, A Vyas, S Umer},\n  journal={Biochemical and Biophysical Research Communications, 154391, 2026},\n  year={2026}\n}",
         "topics": []
       },
       {
@@ -1040,7 +1040,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:ns9cj8rnVeAC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_64,\n  title={An 8-layered mlp network for detection of cardiac arrest at an early stage of disease},\n  author={N Venkata Maha Lakshmi, RK Rout},\n  journal={International conference on artificial intelligence and data science, 306-320, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_65,\n  title={An 8-layered mlp network for detection of cardiac arrest at an early stage of disease},\n  author={N Venkata Maha Lakshmi, RK Rout},\n  journal={International conference on artificial intelligence and data science, 306-320, 2021},\n  year={2021}\n}",
         "topics": []
       }
     ],
@@ -1064,7 +1064,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:hMod-77fHWUC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_63,\n  title={Improving performance of electronic healthcare record management systems (EHRMS) using low complexity blockchain},\n  author={NK Rout, D Dansana, N Parida, RK Rout},\n  journal={2022 Second International Conference on Computer Science, Engineering and …, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_64,\n  title={Improving performance of electronic healthcare record management systems (EHRMS) using low complexity blockchain},\n  author={NK Rout, D Dansana, N Parida, RK Rout},\n  journal={2022 Second International Conference on Computer Science, Engineering and …, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -1123,7 +1123,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:IjCSPb-OGe4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2018_67,\n  title={Solution of 16-Queens problem using 3-variable affine boolean functions (2^{n+ 1})},\n  author={RK Rout, JK Das, PP Choudhury},\n  journal={2018 8th International Conference on Cloud Computing, Data Science …, 2018},\n  year={2018}\n}",
+        "bibtex": "@article{scholar_2018_68,\n  title={Solution of 16-Queens problem using 3-variable affine boolean functions (2^{n+ 1})},\n  author={RK Rout, JK Das, PP Choudhury},\n  journal={2018 8th International Conference on Cloud Computing, Data Science …, 2018},\n  year={2018}\n}",
         "topics": []
       },
       {
