@@ -134,17 +134,6 @@
         "topics": []
       },
       {
-        "title": "Unsupervised learning for feature representation using spatial distribution of amino acids in aldehyde dehydrogenase (aldh2) protein sequences",
-        "authors": "M Khandelwal, S Sheikh, RK Rout, S Umer, S Mallik, Z Zhao",
-        "venue": "Mathematics 10 (13), 2228, 2022",
-        "year": "2022",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:hFOr9nPyWt4C",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2022_37,\n  title={Unsupervised learning for feature representation using spatial distribution of amino acids in aldehyde dehydrogenase (aldh2) protein sequences},\n  author={M Khandelwal, S Sheikh, RK Rout, S Umer, S Mallik, Z Zhao},\n  journal={Mathematics 10 (13), 2228, 2022},\n  year={2022}\n}",
-        "topics": []
-      },
-      {
         "title": "Human-computer interaction using deep fusion model-based facial expression recognition system",
         "authors": "S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii",
         "venue": "CMES-Computer Modeling in Engineering and Sciences 135 (2), 1165-1185, 2022",
@@ -152,7 +141,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:RGFaLdJalmkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_40,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Modeling in Engineering and Sciences 135 (2), 1165-1185, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_37,\n  title={Human-computer interaction using deep fusion model-based facial expression recognition system},\n  author={S Umer, RK Rout, S Tiwari, AA AlZubi, JM Alanazi, K Yurii},\n  journal={CMES-Computer Modeling in Engineering and Sciences 135 (2), 1165-1185, 2022},\n  year={2022}\n}",
+        "topics": []
+      },
+      {
+        "title": "Unsupervised learning for feature representation using spatial distribution of amino acids in aldehyde dehydrogenase (aldh2) protein sequences",
+        "authors": "M Khandelwal, S Sheikh, RK Rout, S Umer, S Mallik, Z Zhao",
+        "venue": "Mathematics 10 (13), 2228, 2022",
+        "year": "2022",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:hFOr9nPyWt4C",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2022_38,\n  title={Unsupervised learning for feature representation using spatial distribution of amino acids in aldehyde dehydrogenase (aldh2) protein sequences},\n  author={M Khandelwal, S Sheikh, RK Rout, S Umer, S Mallik, Z Zhao},\n  journal={Mathematics 10 (13), 2228, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -398,7 +398,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:35N4QoGY0k4C",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_39,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_40,\n  title={Identification of Discriminant Features from Stationary Pattern of Nucleotide Bases and their Application to Essential Gene Classification},\n  author={RK Rout, S Umer, M Khandelwal, S Pati, S Mallik, BK Balabantaray, H Qin},\n  journal={Frontiers in Genetics 14, 630, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -666,7 +666,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:HDshCWvjkbEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2021_38,\n  title={A Vicenary analysis of SARS-CoV-2 genomes},\n  author={SS Hassan, RK Rout, KS Sahoo, N Jhanjhi, S Umer, TA Tabbakh, ...},\n  journal={Cmc-Computers Materials & Continua, 3477-3493, 2021},\n  year={2021}\n}",
+        "bibtex": "@article{scholar_2021_39,\n  title={A Vicenary analysis of SARS-CoV-2 genomes},\n  author={SS Hassan, RK Rout, KS Sahoo, N Jhanjhi, S Umer, TA Tabbakh, ...},\n  journal={Cmc-Computers Materials & Continua, 3477-3493, 2021},\n  year={2021}\n}",
         "topics": []
       },
       {
