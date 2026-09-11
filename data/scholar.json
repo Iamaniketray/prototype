@@ -86,7 +86,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:IWHjjKOFINEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_28,\n  title={Protein-protein interaction prediction from primary sequences using supervised machine learning algorithm},\n  author={M Khandelwal, RK Rout, S Umer},\n  journal={Conluenec 2022, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_29,\n  title={Protein-protein interaction prediction from primary sequences using supervised machine learning algorithm},\n  author={M Khandelwal, RK Rout, S Umer},\n  journal={Conluenec 2022, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -119,7 +119,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:mVmsd5A6BfQC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_35,\n  title={EightyDVec: a method for protein sequence similarity analysis using physicochemical properties of amino acids},\n  author={RK Rout, S Umer, S Sheikh, S Sindhwani, S Pati},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_33,\n  title={EightyDVec: a method for protein sequence similarity analysis using physicochemical properties of amino acids},\n  author={RK Rout, S Umer, S Sheikh, S Sindhwani, S Pati},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -525,17 +525,6 @@
         "topics": []
       },
       {
-        "title": "Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches",
-        "authors": "I Nazeer, S Umer, RK Rout, M Tanveer",
-        "venue": "Computers and Electrical Engineering 119, 109542, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_29,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
         "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
         "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
         "venue": "Scientific reports 14 (1), 7154, 2024",
@@ -543,7 +532,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_30,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_28,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
+        "title": "Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches",
+        "authors": "I Nazeer, S Umer, RK Rout, M Tanveer",
+        "venue": "Computers and Electrical Engineering 119, 109542, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_30,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -554,7 +554,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:zA6iFVUQeVQC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_34,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia tools and applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_35,\n  title={An intelligence method for heart disease prediction using integrated filter-evolutionary search based feature selection and optimized ensemble classifier},\n  author={N Venkata MahaLakshmi, RK Rout},\n  journal={Multimedia tools and applications 83 (13), 39841-39865, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -749,7 +749,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:UeHWp8X0CEIC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2017_33,\n  title={Affine Boolean classification in secret image sharing for progressive quality access control},\n  author={T Bhattacharjee, RK Rout, SP Maity},\n  journal={Journal of Information Security and Applications 33, 16-29, 2017},\n  year={2017}\n}",
+        "bibtex": "@article{scholar_2017_34,\n  title={Affine Boolean classification in secret image sharing for progressive quality access control},\n  author={T Bhattacharjee, RK Rout, SP Maity},\n  journal={Journal of Information Security and Applications 33, 16-29, 2017},\n  year={2017}\n}",
         "topics": []
       }
     ],
