@@ -86,7 +86,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:IWHjjKOFINEC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2022_29,\n  title={Protein-protein interaction prediction from primary sequences using supervised machine learning algorithm},\n  author={M Khandelwal, RK Rout, S Umer},\n  journal={Conluenec 2022, 2022},\n  year={2022}\n}",
+        "bibtex": "@article{scholar_2022_30,\n  title={Protein-protein interaction prediction from primary sequences using supervised machine learning algorithm},\n  author={M Khandelwal, RK Rout, S Umer},\n  journal={Conluenec 2022, 2022},\n  year={2022}\n}",
         "topics": []
       },
       {
@@ -354,7 +354,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:-f6ydRqryjwC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2023_10,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RK Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
+        "bibtex": "@article{scholar_2023_9,\n  title={A secure face recognition for IoT-enabled healthcare system},\n  author={A Sardar, S Umer, RK Rout, SH Wang, M Tanveer},\n  journal={ACM Transactions on Sensor Networks 19 (3), 1-23, 2023},\n  year={2023}\n}",
         "topics": []
       },
       {
@@ -510,7 +510,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:cFHS6HbyZ2cC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_14,\n  title={SMEOR: sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network},\n  author={AD Gupta, R Kumar Rout},\n  journal={International Journal of Communication Systems 37 (4), e5679, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_13,\n  title={SMEOR: sink mobility‐based energy‐optimized routing in energy harvesting‐enabled wireless sensor network},\n  author={AD Gupta, R Kumar Rout},\n  journal={International Journal of Communication Systems 37 (4), e5679, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -525,17 +525,6 @@
         "topics": []
       },
       {
-        "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
-        "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
-        "venue": "Scientific reports 14 (1), 7154, 2024",
-        "year": "2024",
-        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
-        "doi": "",
-        "pdf": "",
-        "bibtex": "@article{scholar_2024_28,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
-        "topics": []
-      },
-      {
         "title": "Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches",
         "authors": "I Nazeer, S Umer, RK Rout, M Tanveer",
         "venue": "Computers and Electrical Engineering 119, 109542, 2024",
@@ -543,7 +532,18 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:xtRiw3GOFMkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2024_30,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
+        "bibtex": "@article{scholar_2024_28,\n  title={Artificial intelligence-based smart agricultural systems for saffron cultivation with integration of Unmanned Aerial Vehicle imagery and deep learning approaches},\n  author={I Nazeer, S Umer, RK Rout, M Tanveer},\n  journal={Computers and Electrical Engineering 119, 109542, 2024},\n  year={2024}\n}",
+        "topics": []
+      },
+      {
+        "title": "GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides",
+        "authors": "J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...",
+        "venue": "Scientific reports 14 (1), 7154, 2024",
+        "year": "2024",
+        "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:pqnbT2bcN3wC",
+        "doi": "",
+        "pdf": "",
+        "bibtex": "@article{scholar_2024_29,\n  title={GeneAI 3.0: powerful, novel, generalized hybrid and ensemble deep learning frameworks for miRNA species classification of stationary patterns from nucleotides},\n  author={J Singh, NN Khanna, RK Rout, N Singh, JR Laird, IM Singh, MK Kalra, ...},\n  journal={Scientific reports 14 (1), 7154, 2024},\n  year={2024}\n}",
         "topics": []
       },
       {
@@ -712,7 +712,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:Y0pCki6q_DkC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2018_13,\n  title={Fractal and mathematical morphology in intricate comparison between tertiary protein structures},\n  author={RK Rout, P Pal Choudhury, SP Maity, BS Daya Sagar, SS Hassan},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2018},\n  year={2018}\n}",
+        "bibtex": "@article{scholar_2018_14,\n  title={Fractal and mathematical morphology in intricate comparison between tertiary protein structures},\n  author={RK Rout, P Pal Choudhury, SP Maity, BS Daya Sagar, SS Hassan},\n  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2018},\n  year={2018}\n}",
         "topics": []
       },
       {
@@ -994,7 +994,7 @@
         "citation_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UYHadLQAAAAJ&pagesize=100&citation_for_view=UYHadLQAAAAJ:0EnyYjriUFMC",
         "doi": "",
         "pdf": "",
-        "bibtex": "@article{scholar_2020_9,\n  title={ANT colony optimization based optimal path selection and data gathering in WSN},\n  author={BM Sahoo, RK Rout, S Umer, HM Pandey},\n  journal={2020 International Conference on Computation, Automation and Knowledge …, 2020},\n  year={2020}\n}",
+        "bibtex": "@article{scholar_2020_10,\n  title={ANT colony optimization based optimal path selection and data gathering in WSN},\n  author={BM Sahoo, RK Rout, S Umer, HM Pandey},\n  journal={2020 International Conference on Computation, Automation and Knowledge …, 2020},\n  year={2020}\n}",
         "topics": []
       },
       {
